@@ -24,6 +24,8 @@ Our website provides users with access to all they require to look after themsel
 ### Login/Signup
 ![Home](/images/readme/6.png)
 
+### Login/Signup
+![Home](/images/readme/7.png) 
 
 ## Features
 
